@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVu18TYjMd8G4PgN9OW+2erQi0NDW02yOPfy6celTisC/u4avJck05ytYu+vvqiBD7z9AIPSAmobj8Fl9UfGhQ==",
+  "success": true,
+  "projectFilePath": "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/Infraestructure/Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/phaxw/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
