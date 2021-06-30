@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/UsersApi/UsersApi.csproj": {}
+    "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/UsersApi/UsersApi.csproj": {}
   },
   "projects": {
-    "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/UsersApi/UsersApi.csproj": {
+    "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/UsersApi/UsersApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/UsersApi/UsersApi.csproj",
+        "projectUniqueName": "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/UsersApi/UsersApi.csproj",
         "projectName": "UsersApi",
-        "projectPath": "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/UsersApi/UsersApi.csproj",
-        "packagesPath": "/Users/phaxw/.nuget/packages/",
-        "outputPath": "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/UsersApi/obj/",
+        "projectPath": "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/UsersApi/UsersApi.csproj",
+        "packagesPath": "/home/penunurisantiago/.nuget/packages/",
+        "outputPath": "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/UsersApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/phaxw/.nuget/NuGet/NuGet.Config"
+          "/home/penunurisantiago/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -61,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -75,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.410/RuntimeIdentifierGraph.json"
         }
       }
     }

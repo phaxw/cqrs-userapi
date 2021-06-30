@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JC2sEe+EGJO7mD1ZNK7BqrphAy7i7cHsUlDtXeeCAIoHkAVTfMLOJ8x5B6KPKf3PVKjLFUCJ0BkH55NrImseHg==",
+  "dgSpecHash": "0s75DotAHzZMTi2dFD6vqEjNd+JDnh4Axs4xN3Hkmp40R1DVknfnjnJiUFNQeVlWKGFuhfLgeQtoXNnkobpeYQ==",
   "success": true,
-  "projectFilePath": "/Users/phaxw/Documents/Proyectos/Netcore/UsersApi/Application/Application.csproj",
-  "expectedPackageFiles": [
-    "/Users/phaxw/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/penunurisantiago/Documentos/Proyectos/netcore/cqrs-userapi/Application/Application.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/phaxw/.dotnet/store/|arch|/|tfm|",
-      "/Users/phaxw/.nuget/packages"
+      "/home/penunurisantiago/.dotnet/store/|arch|/|tfm|",
+      "/home/penunurisantiago/.nuget/packages"
     ]
   }
 }
