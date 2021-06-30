@@ -26,6 +26,7 @@ namespace UsersApi.DataAccess
         public User GetUserById(int id)
         {
             var user = usersList.FirstOrDefault(x => x.IdUser == id);
+            throw new Exception("trone");
             return user;
         }
 

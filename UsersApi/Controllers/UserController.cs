@@ -36,6 +36,10 @@ namespace UsersApi.Controllers
             var query = new GetUserByIdQuery(id);
             var result = await _mediator.Send(query);
             return result != null ? (IActionResult) Ok(result) : NotFound(null);
+            
+           
+            
+            
         }
 
         [HttpPost()]

@@ -12,6 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using UsersApi.DataAccess;
+using UsersApi.Middlewares;
 
 namespace UsersApi
 {
@@ -39,6 +40,8 @@ namespace UsersApi
             {
                 app.UseDeveloperExceptionPage();
             }
+            
+            app.ConfigureExceptionHandler();
 
             app.UseHttpsRedirection();
 
