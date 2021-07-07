@@ -10,8 +10,9 @@ namespace UsersApi.Dtos
         public int StatusCode { get; set; }
         public string Message { get; set; }
         public string Source { get; set; }
+        public string Path { get; set; }
+        public string Method { get; set; }
         public string Error { get; set; }
-        
         public override string ToString()
         {
             return JsonConvert.SerializeObject(this);
